@@ -39,9 +39,9 @@ no cálculo de conversão de base numéricas, resolvendo a conversão indicando 
 
 **Exemplo:**
 
-Decimal para binário:
+- Decimal para binário:
 
-'''
+=====================================================================================
 
 - Número Decimal: 127
  
@@ -51,4 +51,4 @@ Decimal para binário:
 
 -Após clicar em ‘Calcular’ será Exibido “A resposta com bit de sinal é: 1 0000001”
 
-'''
+=====================================================================================

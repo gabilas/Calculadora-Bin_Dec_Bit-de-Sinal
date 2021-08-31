@@ -36,11 +36,9 @@ no cálculo de conversão de base numéricas, resolvendo a conversão indicando 
 
 **Exemplo:**
 
-'''
-*Número Decimal: 127
+-Número Decimal: 127
 Após clicar em ‘Calcular’ será Exibido “A resposta com bit de sinal é: 0 1111111”
 
-*Número Decimal: -127
+-Número Decimal: -127
 Após clicar em ‘Calcular’ será Exibido “A resposta com bit de sinal é: 1 0000001”
 
-'''

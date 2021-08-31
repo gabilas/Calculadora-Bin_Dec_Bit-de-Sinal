@@ -1,5 +1,3 @@
-from tkinter import *
-
 def calculadora():
 
     print("Bem vindo ao conversor de número Decimal para número Binário")
@@ -57,9 +55,3 @@ def calculadora():
             print("Se quiser sair digite 'q', caso contrário entre com 'ENTER'")
             sair = input()
 calculadora()
-
-app = Tk()
-
-app.title("Teste")
-
-app.mainloop()

@@ -28,7 +28,7 @@ no cálculo de conversão de base numéricas, resolvendo a conversão indicando 
 
 ## Instruções de uso
 
-- Instalar o python 3 ou baixar o Executável;
+- Instalar o python 3 ou baixar o Executável (Encontra-se na pasta 'Dist');
 - Identificar o valor do número (Caso positivo: “Apenas o número”; Caso negativo: “Digitar ‘-’ antes do número”);
 - Clicar em ‘Calcular’;
 - O valor será impresso na parte inferior da tela;

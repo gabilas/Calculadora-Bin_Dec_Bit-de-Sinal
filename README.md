@@ -1,4 +1,4 @@
-# Calculadora-Bin_Dec_Bit-de-Sinal
+# Calculadora-Conversor de Base numérica com bit de Sinal
 
 O projeto contido neste repositório tem como objetivo ser uma ferramenta que ajude
 no cálculo de conversão de base numéricas, resolvendo a conversão indicando o sinal do número.
